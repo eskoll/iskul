@@ -1,0 +1,29 @@
+.header{
+	font-family: Papyrus;
+	font-size: 63px;
+}
+
+#p{
+	font-family: Crack;
+	font-size: 45px
+}
+
+.parent {
+  text-align: center;
+}
+
+
+#p2{
+	font-family: Chiller;
+	font-size: 33px
+}
+
+ul {
+  list-style-type: none;
+}
+
+/*hide href color and line*/
+ a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: inherit;
+ }
