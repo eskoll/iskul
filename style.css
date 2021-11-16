@@ -1,0 +1,35 @@
+.header{
+	font-family: Papyrus;
+	font-size: 63px;
+}
+
+.name{
+	font-family: Lucida Handwriting;
+	font-size: 15px;
+}
+
+#p{
+	font-family: Courier New;
+	font-size: 55px
+}
+
+#p2{
+	font-family: Helvetica;
+	font-size: 30px
+}
+
+.parent {
+  text-align: center;
+}
+
+/*hide bullet*/
+ul {
+  list-style-type: none;
+}
+
+/*hide href color and line*/
+ a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: inherit;
+ }
+
